@@ -1,0 +1,24 @@
+{
+  "name": "form-validation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "verification.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sykoivisto/client-side-form-validation-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sykoivisto/client-side-form-validation-practice/issues"
+  },
+  "homepage": "https://github.com/sykoivisto/client-side-form-validation-practice#readme",
+  "devDependencies": {
+    "eslint": "^8.28.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
